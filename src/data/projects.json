@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "品牌视觉设计",
+    "category": "品牌",
+    "thumbnail": "/images/project-1-thumb.jpg",
+    "images": ["/images/project-1-1.jpg", "/images/project-1-2.jpg"],
+    "description": "为一家科技初创公司设计的完整品牌视觉系统，包括标志、配色方案、字体系统和品牌手册。",
+    "date": "2025-12-01",
+    "tools": ["Figma", "Illustrator", "Photoshop"]
+  },
+  {
+    "id": 2,
+    "title": "移动应用界面",
+    "category": "UI/UX",
+    "thumbnail": "/images/project-2-thumb.jpg",
+    "images": ["/images/project-2-1.jpg", "/images/project-2-2.jpg"],
+    "description": "一款健康管理应用的界面设计，注重用户体验和视觉美感的平衡。",
+    "date": "2025-11-15",
+    "tools": ["Figma", "Principle", "After Effects"]
+  },
+  {
+    "id": 3,
+    "title": "编辑插画系列",
+    "category": "插画",
+    "thumbnail": "/images/project-3-thumb.jpg",
+    "images": ["/images/project-3-1.jpg", "/images/project-3-2.jpg"],
+    "description": "为一本生活方式杂志创作的系列编辑插画，探索现代都市生活的多面性。",
+    "date": "2025-10-20",
+    "tools": ["Procreate", "Photoshop"]
+  },
+  {
+    "id": 4,
+    "title": "电商网站设计",
+    "category": "网页",
+    "thumbnail": "/images/project-4-thumb.jpg",
+    "images": ["/images/project-4-1.jpg", "/images/project-4-2.jpg"],
+    "description": "一个高端家居品牌的电商网站设计，强调产品展示和购买流程的流畅体验。",
+    "date": "2025-09-05",
+    "tools": ["Figma", "Webflow", "After Effects"]
+  },
+  {
+    "id": 5,
+    "title": "活动主视觉海报",
+    "category": "海报",
+    "thumbnail": "/images/project-5-thumb.jpg",
+    "images": ["/images/project-5-1.jpg", "/images/project-5-2.jpg"],
+    "description": "一个音乐节的主视觉海报设计，通过大胆的色彩和排版传达活动的活力。",
+    "date": "2025-08-12",
+    "tools": ["Illustrator", "Photoshop"]
+  },
+  {
+    "id": 6,
+    "title": "包装设计系列",
+    "category": "包装",
+    "thumbnail": "/images/project-6-thumb.jpg",
+    "images": ["/images/project-6-1.jpg", "/images/project-6-2.jpg"],
+    "description": "一款精品咖啡的包装系列设计，融合手工艺感和现代极简风格。",
+    "date": "2025-07-18",
+    "tools": ["Illustrator", "Cinema 4D", "Photoshop"]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "夏日音乐节海报",
+    "category": "海报设计",
+    "image": "https://picsum.photos/id/1015/800/600",
+    "description": "为独立乐队设计的音乐节主视觉，使用鲜艳色彩和动态构图。",
+    "tools": ["Photoshop", "Midjourney"]
+  },
+  {
+    "id": 2,
+    "title": "有机食品品牌VI",
+    "category": "品牌设计",
+    "image": "https://picsum.photos/id/1020/800/600",
+    "description": "全案品牌设计，包含Logo、包装、店面视觉。",
+    "tools": ["Illustrator", "Stable Diffusion"]
+  }
+]

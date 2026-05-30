@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/claude项目/**)",
+      "Bash(npm create *)",
+      "Bash(cp -r temp-vite-project/* \"在线作品集网站/\")",
+      "Bash(cp temp-vite-project/.gitignore \"在线作品集网站/\")",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(kill %1)",
+      "Bash(npx vite *)"
+    ]
+  }
+}
